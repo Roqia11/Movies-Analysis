@@ -9,7 +9,7 @@ Cleaned and preprocessed movie datasets to ensure data quality and consistency, 
 
 ## Power Bi Dashboards
 
-![Movies Dashboard](![Screenshot](https://github.com/user-attachments/assets/1b3485e8-4576-4b62-9d34-0b4400ab76c9)
+[Movies Dashboard][Screenshot](https://github.com/user-attachments/assets/1b3485e8-4576-4b62-9d34-0b4400ab76c9)
 
 
 
